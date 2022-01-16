@@ -2,7 +2,7 @@
 Back,,,
 Amount,Designator,Part Type,Properties
 1,,Generic molex header - 4 pins,"package THT; hole size 1.0mm,0.508mm; row single; form molex; pins 4; pin spacing 0.1in (2.54mm)"
-2,"c1, c2",Electrolytic Capacitor,"package 100 mil [THT, electrolytic]; capacitance 10µF; voltage 6.3V"
+2,"c1, c2",Electrolytic Capacitor,"package 100 mil [THT, electrolytic]; capacitance 10µF; voltage 25V"
 2,"c3, c14",Ceramic Capacitor,"package 0603 [SMD, multilayer]; capacitance 100nF; voltage 6.3V"
 3,"c5, c6, c7",Ceramic Capacitor,"package 0603 [SMD, multilayer]; capacitance 100pF; voltage 6.3V"
 2,"c8, c9",Ceramic Capacitor,"package 0603 [SMD, multilayer]; capacitance 68nF; voltage 6.3V"
@@ -11,7 +11,7 @@ Amount,Designator,Part Type,Properties
 1,c13,Ceramic Capacitor,"package 1206 [SMD, multilayer]; capacitance 4.7µF; voltage 6.3V"
 1,d1,Rectifier Diode,package Melf DO-213 AA [SMD]; type Rectifier
 6,"d2, d3, d4, d5, d8, d9",Schottky Diode,package 300 mil [THT]; type Schottky; part # BAT43
-1,ic2,Voltage Regulator LM1117,package sot223; features LDO; current 150mA; voltage adjustable; chip LM1117; variant sot223
+1,ic2,Voltage Regulator LM1117 5v,package sot223; features LDO; current 150mA; voltage adjustable; chip LM1117; variant sot223
 1,ic3,SO08,package SO08; true; chip label IC MCP6232
 1,,Generic female header - 7 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 7; pin spacing 0.1in (2.54mm)"
 1,,Generic female header - 3 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 3; pin spacing 0.1in (2.54mm)"
