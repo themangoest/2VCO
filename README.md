@@ -13,3 +13,4 @@ Toggle the octave from -1 to +1 with the toggle switch.
 RATE IN
 CV IN that controls the gain of OSC1 and OSC2.
 
+Inspired by Hagiwo
