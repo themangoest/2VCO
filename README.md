@@ -14,3 +14,5 @@ RATE IN
 CV IN that controls the gain of OSC1 and OSC2.
 
 Inspired by Hagiwo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REbdED-bVJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
